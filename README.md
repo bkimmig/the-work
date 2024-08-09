@@ -1,3 +1,11 @@
+# The Work
+
+Using the npm package `gh-pages` (npm install gh-pages --save-dev) we can set this repo up to be deployed.
+
+Merging to master will mean that your build artifact is pushed to the gh-pages branch and deployed.
+
+[Reference](https://github.com/gitname/react-gh-pages)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
