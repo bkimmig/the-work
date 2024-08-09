@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# The Work
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Site](https://bkimmig.github.io/the-work/)
+
+Using the npm package `gh-pages` (npm install gh-pages --save-dev) we can set this repo up to be deployed.
+
+Merging to `main` will mean that your build artifact is pushed to the gh-pages branch and deployed.
+
+You can't merge to `main` if your build doesn't pass.
+
+Deployed branch is `gh-pages`
+
+References:
+- [gitname](https://github.com/gitname/react-gh-pages)
+- [auto deploy](https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp)
 
 ## Available Scripts
 
